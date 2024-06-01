@@ -36,7 +36,7 @@ C          15 mins     ████▒░░░░░░░░░
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/divyansh-bhardwaj-9a30591bb/)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&labelColor=orange)](https://leetcode.com/u/divyansh02032003/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&labelColor=pink)](https://www.instagram.com/justsomeoneasdb/)
 
 <a href="https://getbootstrap.com" target="_blank">
