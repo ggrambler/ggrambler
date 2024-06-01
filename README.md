@@ -6,15 +6,14 @@
 - 🔭 I'm working on various web development and AI/ML projects.
 - 👯 I'm looking to collaborate on **open source projects**.
 - 💬 Ask me about **web development, Git, open source, DSA, and AI/ML**.
-- 📫 How to reach me: **Divyansh02032003@gmail.com**.
+- 📫 How to reach me: <a href="mailto:Divyansh02032003@gmail.com">Click to reveal email</a>.
 
 ## Skills
 
 - **Languages:** C, C++, Python, HTML, CSS, JavaScript
 - **Frameworks:** Bootstrap, jQuery, React
-- **Tools:** Git, GitHub, Node.js
 - **Libraries:** Three.js
-- **Areas of Interest:** Data Structures, Algorithms, Machine Learning
+- **Areas of Interest:** Data Structures, Algorithms, Machine Learning, Deep Learning
 
 ## GitHub Stats
 
@@ -24,26 +23,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/divyansh-bhardwaj-9a30591bb/)
 
----
-
-## Debasish Mishra
-
-### A passionate Opensource enthusiast from NIT, Rourkela.
-
-- 🔭 Currently working on **Hackodisha**
-- 🌱 Learning **three.js**
-- 👯 Looking to collaborate on **Github**
-- 🤝 Looking for help with **DataStructure**
-- 💬 Ask me about **React**
-- 📫 How to reach me: **mishradebasish870@gmail.com**
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/debasish870)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&labelColor=blue)](https://www.facebook.com/debasish870)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&labelColor=pink)](https://www.instagram.com/debasishmishra31/)
-
-![Debasish's github activity graph](https://activity-graph.herokuapp.com/graph?username=debasish-creator&theme=react-dark&hide_border=true&area=true)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&labelColor=pink)](https://www.instagram.com/justsomeoneasdb/)
 
 ### Languages and Tools:
 
@@ -51,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
