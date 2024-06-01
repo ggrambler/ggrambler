@@ -29,13 +29,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 </a>
 <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://github.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  alt="c" width="40" height="40"/>
 </a>
 <a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://github.com/devicons/devicon/master/icons/cpp/cpp-original.svg" alt="c++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  alt="c++" width="40" height="40"/>
 </a>
 <a href="https://www.rust-lang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/octal-bass/devicons/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"  alt="rust" width="40" height="40"/>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
