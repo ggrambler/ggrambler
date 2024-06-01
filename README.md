@@ -7,7 +7,7 @@
 - 🔭 I'm working on various web development and AI/ML projects.
 - 👯 I'm looking to collaborate on **open source projects**.
 - 💬 Ask me about **web development, Git, open source, DSA, and AI/ML**.
-- 📫 How to reach me: <a href="mailto:Divyansh02032003@gmail.com">Click to reveal email</a>.
+- 📫 How to reach me: <a href="mailto:Divyansh02032003@gmail.com">Right Click to open new Tab</a>.
 
 
 ## Skills
