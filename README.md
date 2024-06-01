@@ -16,9 +16,22 @@
 - **Libraries:** Three.js
 - **Areas of Interest:** Data Structures, Algorithms, Machine Learning, Deep Learning
 
-## GitHub Stats
+```txt
+C++       15h 52min  ███████████████████████████░░░░░  78.10 %
+Python     6h 12min  ██████████░░░░░░░░░░░░░░░░░░░░░  30.70 %
+CSS       3h 15min  ██████▒░░░░░░░░░░░░░░░░░░░░░░░░  15.75 %
+JavaScript 30 mins     ████▒░░░░░░░░░░░░░░░░░░░░░░░░  1.52 %
+C          15 mins     ████▒░░░░░░░░░░░░░░░░░░░░░░░░  0.76 %
+```
 
-![ggrambler's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggrambler&show_icons=true&theme=radical)
+<!--END_SECTION:waka-->
+
+## LeetCode Stats
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&labelColor=orange)](https://leetcode.com/u/divyansh02032003/)
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=divyansh02032003)
+
 
 ## Connect with Me
 
