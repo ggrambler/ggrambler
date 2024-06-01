@@ -1,3 +1,4 @@
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 # Hi there, I'm Divyansh Bhardwaj 🐼👋
 
 ## About Me
