@@ -1,4 +1,4 @@
-# Hi there, I'm Divyansh Bhardwaj 👋
+# Hi there, I'm Divyansh Bhardwaj 🐼👋
 
 ## About Me
 
