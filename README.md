@@ -1,4 +1,4 @@
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://github.com/ggrambler/ggrambler/blob/main/header.png)
 # Hi there, I'm Divyansh Bhardwaj 🐼👋
 
 ## About Me
