@@ -14,6 +14,7 @@
 - **Languages:** C, C++, Python, HTML, CSS, JavaScript
 - **Frameworks:** Bootstrap, jQuery, React
 - **Libraries:** Three.js
+- **Databases:** SQL,ORACLE,MongoDB,deta
 - **Areas of Interest:** Data Structures, Algorithms, Machine Learning, Deep Learning
 
 ```txt
