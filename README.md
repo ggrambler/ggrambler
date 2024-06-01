@@ -8,6 +8,11 @@
 - 💬 Ask me about **web development, Git, open source, DSA, and AI/ML**.
 - 📫 How to reach me: <a href="mailto:Divyansh02032003@gmail.com">Click to reveal email</a>.
 
+## Contribution Calendar
+
+[![Contribution Calendar](https://unpkg.com/github-calendar@latest/dist/github-calendar.svg?username=ggrambler)]
+
+
 ## Skills
 
 - **Languages:** C, C++, Python, HTML, CSS, JavaScript
