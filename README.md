@@ -46,8 +46,6 @@ C          15 mins   ████▒░░░░░░░░░░░░░░�
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&labelColor=orange)](https://leetcode.com/u/divyansh02032003/)
 
-
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/divyansh02032003?theme=light&font=Croissant%20One&ext=heatmap)
 
 
@@ -57,7 +55,6 @@ C          15 mins   ████▒░░░░░░░░░░░░░░�
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ggrambler&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://github.com/ggrambler/ggrambler/blob/output/github-contribution-grid-snake.svg)
 
 
 
